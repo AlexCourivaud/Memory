@@ -1,0 +1,47 @@
+I-
+En tant que développeur, 
+Je veux pouvoir créer des notes
+Afin de partager des informations, commentaires, astuces avec mes collègues
+
+Criteres d'acceptation :
+    je peux créer des notes contenant du texte, image et /ou des lignes de code 
+    je peux choisir de partager la notes avec les collaborateurs de mon choix
+
+
+II- 
+En tant que développeur,
+Je veux pouvoir commenter les notes postées sur les projets par les différents collaborateurs participants
+Afin d'echanger sur les sujets avec les participants 
+
+Critères d'acceptation: 
+    le commentaire s'ajoute à la note sous forme de fil
+    le commentaire possède les memes caractéristiques que le post, il peut contenir du texte, des images et meme du code.
+
+III-
+En tant que développeur,
+Je veux recevoir des notifications des nouveaux posts et commentaires sur les projets que je travaille
+Afin de réagir et d'échanger rapidemment avec mes collaborateurs
+
+Criteres d'acceptation:
+    la notification est visible sur nimporte quel écran de l'applicaiton
+    
+
+IV-
+En tant que développeur,
+Je veux pouvoir rechercher une recherche avancées,
+Afin de retrouver des informations spécifiques,
+
+Critères d'acceptation:
+    La rercherche affiche en fonctio du nom, des mots clés inclus, des étiquettes ou des contributeurs des projets
+    Les résultats sont affichés par ordre chronologique (la dernière interaction, post ou commentaire en 1er résultat)
+
+
+V-
+En tant que manager,
+Je veux pouvoir classer, organiser, attribuer à des collaborateurs et ajouter des étiquetter sur les différentes notes
+Afin d'optimiser la répartition du travail sur les différents projets
+
+Critères d'acceptations
+    Je peux manipuler n'importe quelle note
+    il y a plusieurs types d'étiquettes de classement
+    
