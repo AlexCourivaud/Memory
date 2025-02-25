@@ -1,3 +1,5 @@
+' Diagramme de classe UML :
+
 @startuml
 class Utilisateur {
   -id: int
@@ -57,4 +59,30 @@ Commentaire "1" -- "1" Note : sur
 Utilisateur "1" -- "0..* " Projet : travaille sur
 Projet "1" -- "0..* " Utilisateur : a
 Utilisateur "1" -- "1" TableauDeBord : a
+@enduml
+
+
+' Diagramme de séquence UML :
+
+@startuml
+actor Développeur as D
+participant "Application Memory Note" as SGN
+participant Note as N
+participant Commentaire as C
+participant "Base de Données" as BD
+
+D -> SGN: Sélectionne une note
+SGN -> BD: Récupère les détails de la note
+BD --> SGN: Retourne les détails de la note
+SGN -> D: Affiche la note
+
+D -> SGN: Soumet un nouveau commentaire
+SGN -> C: Crée un objet Commentaire
+C -> BD: Sauvegarde le commentaire
+BD --> C: Confirme la sauvegarde
+C --> SGN: Confirme la création du commentaire
+SGN -> N: Met à jour la note avec le nouveau commentaire
+N -> SGN: Confirme la mise à jour
+SGN -> D: Confirme l'ajout du commentaire
+
 @enduml
