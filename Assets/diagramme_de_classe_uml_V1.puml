@@ -1,0 +1,60 @@
+@startuml
+class Utilisateur {
+  -id: int
+  -nom: string
+  -email: string
+  -rôle: string
+  -compétences: List<string>
+  +créerNote(): void
+  +commenterNote(): void
+  +consulterTableauDeBord(): void
+}
+
+class Note {
+  -id: int
+  -contenu: string
+  -type: string
+  -dateCréation: date
+  -auteur: Utilisateur
+  -étiquettes: List<Étiquette>
+  +ajouterÉtiquette(étiquette: Étiquette): void
+  +partagerAvec(utilisateur: Utilisateur): void
+}
+
+class Étiquette {
+  -id: int
+  -nom: string
+}
+
+class Commentaire {
+  -id: int
+  -contenu: string
+  -date: date
+  -auteur: Utilisateur
+  -note: Note
+}
+
+class Projet {
+  -id: int
+  -nom: string
+  -description: string
+  -développeurs: List<Utilisateur>
+  +ajouterDéveloppeur(utilisateur: Utilisateur): void
+}
+
+class TableauDeBord {
+  -utilisateur: Utilisateur
+  -notesRécentes: List<Note>
+  -tâchesAssignées: List<string>
+  -projetsEnCours: List<Projet>
+}
+
+Utilisateur "1" -- "0..*" Note : crée
+Note "1" -- "0..*" Étiquette : a
+Note "1" -- "0..*" Commentaire : a
+Commentaire "1" -- "1" Utilisateur : auteur
+Commentaire "1" -- "1" Note : sur
+Utilisateur "1" -- "0..* " Projet : travaille sur
+Projet "1" -- "0..* " Utilisateur : a
+Utilisateur "1" -- "1" TableauDeBord : a
+@enduml
