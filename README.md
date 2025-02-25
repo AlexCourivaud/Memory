@@ -50,3 +50,15 @@ Métriques de participations
 Confidentialité et Accès aux données
 
   -	Systèmes de profils en fonctions des postes de développeurs et avec des accès à des fonctionnalités plus ou moins avancées
+
+
+
+___________________________________________
+
+Liens :
+user stories - https://github.com/AlexCourivaud/Memory/blob/main/Assets/users_stories.txt
+Figma - Maquette WireFrame- https://www.figma.com/design/iCzj0ZYoNEtAtpxB7LnQxG/Untitled?node-id=0-1&p=f&t=VqUQH6H04kzovWXE-0
+
+ToDo : 
+Maquette Definitive - 
+Graphique UML
