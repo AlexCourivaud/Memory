@@ -60,10 +60,11 @@ user stories - https://github.com/AlexCourivaud/Memory/blob/main/Assets/users_st
 
 Figma - Maquette WireFrame- https://www.figma.com/design/iCzj0ZYoNEtAtpxB7LnQxG/Untitled?node-id=0-1&p=f&t=VqUQH6H04kzovWXE-0
 
-ToDo : 
-Maquette Definitive - 
 Diagramme de classe UML
 Diagramme de séquence UML
+
+ToDo : 
+Maquette Definitive - 
 MCD 
 MLD
 MPD
