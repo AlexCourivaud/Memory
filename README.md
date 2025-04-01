@@ -58,11 +58,12 @@ ___________________________________________
 Liens :
 user stories : https://github.com/AlexCourivaud/Memory/blob/main/Assets/users_stories.txt
 
-Figma - Maquette WireFrame : https://www.figma.com/design/iCzj0ZYoNEtAtpxB7LnQxG/Untitled?node-id=0-1&p=f&t=VqUQH6H04kzovWXE-0
+Figma - Maquette (en cours) : https://www.figma.com/design/iCzj0ZYoNEtAtpxB7LnQxG/Untitled?node-id=0-1&p=f&t=VqUQH6H04kzovWXE-0
+
+Balsamiq - Maquette WireFrame : https://balsamiq.cloud/s8o3kbr/pet6nqo
 
 Repo de l'API : https://github.com/AlexCourivaud/API-memory
 ToDo : 
-Maquette Definitive - 
 Diagramme de classe UML
 Diagramme de séquence UML
 MCD 
