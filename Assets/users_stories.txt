@@ -16,6 +16,7 @@ Afin d'echanger sur les sujets avec les participants
 Critères d'acceptation: 
     le commentaire s'ajoute à la note sous forme de fil
     le commentaire possède les memes caractéristiques que le post, il peut contenir du texte, des images et meme du code.
+    Une notification est envoyée à tous les participants au projet
 
 III-
 En tant que développeur,
