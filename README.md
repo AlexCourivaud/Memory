@@ -62,8 +62,4 @@ Balsamiq - Maquette WireFrame : https://balsamiq.cloud/s8o3kbr/pet6nqo
 
 Repo de l'API : https://github.com/AlexCourivaud/API-memory
 ToDo :
-Diagramme de classe UML
-Diagramme de séquence UML
-MCD
-MLD
 MPD
