@@ -63,3 +63,7 @@ Balsamiq - Maquette WireFrame : https://balsamiq.cloud/s8o3kbr/pet6nqo
 Repo de l'API : https://github.com/AlexCourivaud/API-memory
 ToDo :
 MPD
+refaire diagramme UML
+maquette figma + ui kit
+vérification BDD
+rendre le dossier de conception
