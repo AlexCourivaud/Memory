@@ -1,14 +1,13 @@
----
 
-**_ Project Memory – pour plus de facilité de compréhension l’intégralité du dossier sera en français. _**
+**_ Project ShareTech Memory – pour plus de facilité de compréhension l’intégralité du dossier sera en français. _**
 
-Memory est un projet de validation du titre de CDA pour l’IBM Academy Loire Atlantique promotion 2024-2026.
+*ShareTech Memory* est un projet de validation du titre de CDA pour l’IBM Academy Loire Atlantique promotion 2024-2026.
 
 Il s’agit d’une application permettant la gestion de notes et l’echange entre des employés d’une entreprise fictive
 
----
 
-Memory-nom-a-valider est un outil de gestion de notes et d’échanges entre développeur de l’entreprise Memory.
+
+*ShareTech Memory* est un outil de gestion de notes et d’échanges entre développeur de l’entreprise Memory.
 
 Fonctionnalités clés :
 
@@ -63,3 +62,7 @@ Balsamiq - Maquette WireFrame : https://balsamiq.cloud/s8o3kbr/pet6nqo
 Repo de l'API : https://github.com/AlexCourivaud/API-memory
 ToDo :
 MPD
+refaire diagramme UML
+maquette figma + ui kit
+vérification BDD
+rendre le dossier de conception
