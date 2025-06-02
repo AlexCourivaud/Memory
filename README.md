@@ -1,14 +1,13 @@
----
 
-**_ Project Memory – pour plus de facilité de compréhension l’intégralité du dossier sera en français. _**
+**_ Project ShareTech Memory – pour plus de facilité de compréhension l’intégralité du dossier sera en français. _**
 
-Memory est un projet de validation du titre de CDA pour l’IBM Academy Loire Atlantique promotion 2024-2026.
+*ShareTech Memory* est un projet de validation du titre de CDA pour l’IBM Academy Loire Atlantique promotion 2024-2026.
 
 Il s’agit d’une application permettant la gestion de notes et l’echange entre des employés d’une entreprise fictive
 
----
 
-Memory-nom-a-valider est un outil de gestion de notes et d’échanges entre développeur de l’entreprise Memory.
+
+*ShareTech Memory* est un outil de gestion de notes et d’échanges entre développeur de l’entreprise Memory.
 
 Fonctionnalités clés :
 
