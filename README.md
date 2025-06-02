@@ -1,5 +1,5 @@
 
-**_ Project ShareTech Memory – pour plus de facilité de compréhension l’intégralité du dossier sera en français. _**
+*** Project ShareTech Memory – pour plus de facilité de compréhension l’intégralité du dossier sera en français. ***
 
 *ShareTech Memory* est un projet de validation du titre de CDA pour l’IBM Academy Loire Atlantique promotion 2024-2026.
 
