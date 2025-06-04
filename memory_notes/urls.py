@@ -16,10 +16,14 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path
-from .views import index
+from .views import index, dashboard
 
 urlpatterns = [
     path('', index, name="index"),
     path('admin/', admin.site.urls),
+    path('', dashboard, name="dashboard"),
+    path('', show-projects, name="show-projects"),
+    path('', show, name="oui"),
+    path('', show, name="oui"),
 ]
 
